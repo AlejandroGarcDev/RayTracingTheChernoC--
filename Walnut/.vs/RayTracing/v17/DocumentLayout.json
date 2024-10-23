@@ -1,0 +1,200 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alejandro\\RayTracing\\Walnut\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{393270A2-25EA-B1EF-8EF1-8A4B7AC84CE0}|RayTracing\\RayTracing.vcxproj|C:\\Users\\Alejandro\\RayTracing\\Walnut\\RayTracing\\src\\Camera.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{393270A2-25EA-B1EF-8EF1-8A4B7AC84CE0}|RayTracing\\RayTracing.vcxproj|solutionrelative:RayTracing\\src\\Camera.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{393270A2-25EA-B1EF-8EF1-8A4B7AC84CE0}|RayTracing\\RayTracing.vcxproj|C:\\Users\\Alejandro\\RayTracing\\Walnut\\RayTracing\\src\\Renderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{393270A2-25EA-B1EF-8EF1-8A4B7AC84CE0}|RayTracing\\RayTracing.vcxproj|solutionrelative:RayTracing\\src\\Renderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{393270A2-25EA-B1EF-8EF1-8A4B7AC84CE0}|RayTracing\\RayTracing.vcxproj|C:\\Users\\Alejandro\\RayTracing\\Walnut\\RayTracing\\src\\Renderer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{393270A2-25EA-B1EF-8EF1-8A4B7AC84CE0}|RayTracing\\RayTracing.vcxproj|solutionrelative:RayTracing\\src\\Renderer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{393270A2-25EA-B1EF-8EF1-8A4B7AC84CE0}|RayTracing\\RayTracing.vcxproj|C:\\Users\\Alejandro\\RayTracing\\Walnut\\RayTracing\\src\\WalnutApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{393270A2-25EA-B1EF-8EF1-8A4B7AC84CE0}|RayTracing\\RayTracing.vcxproj|solutionrelative:RayTracing\\src\\WalnutApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{393270A2-25EA-B1EF-8EF1-8A4B7AC84CE0}|RayTracing\\RayTracing.vcxproj|C:\\Users\\Alejandro\\RayTracing\\Walnut\\RayTracing\\src\\Scene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{393270A2-25EA-B1EF-8EF1-8A4B7AC84CE0}|RayTracing\\RayTracing.vcxproj|solutionrelative:RayTracing\\src\\Scene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C038E8D9-ACDA-12B0-9595-260481D69900}|Walnut\\Walnut.vcxproj|C:\\Users\\Alejandro\\RayTracing\\Walnut\\Walnut\\src\\Walnut\\Random.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C038E8D9-ACDA-12B0-9595-260481D69900}|Walnut\\Walnut.vcxproj|solutionrelative:Walnut\\src\\Walnut\\Random.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C038E8D9-ACDA-12B0-9595-260481D69900}|Walnut\\Walnut.vcxproj|C:\\Users\\Alejandro\\RayTracing\\Walnut\\Walnut\\src\\Walnut\\Random.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C038E8D9-ACDA-12B0-9595-260481D69900}|Walnut\\Walnut.vcxproj|solutionrelative:Walnut\\src\\Walnut\\Random.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\VULKANSDK\\1.3.290.0\\INCLUDE\\GLM\\GTX\\COMPONENT_WISE.HPP||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FF640D-2C14-8DBE-F595-301E616989EF}|vendor\\imgui\\ImGui.vcxproj|C:\\Users\\Alejandro\\RayTracing\\Walnut\\vendor\\imgui\\imgui.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C0FF640D-2C14-8DBE-F595-301E616989EF}|vendor\\imgui\\ImGui.vcxproj|solutionrelative:vendor\\imgui\\imgui.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{393270A2-25EA-B1EF-8EF1-8A4B7AC84CE0}|RayTracing\\RayTracing.vcxproj|C:\\Users\\Alejandro\\RayTracing\\Walnut\\RayTracing\\src\\Ray.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{393270A2-25EA-B1EF-8EF1-8A4B7AC84CE0}|RayTracing\\RayTracing.vcxproj|solutionrelative:RayTracing\\src\\Ray.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\PROGRAM FILES\\MICROSOFT VISUAL STUDIO\\2022\\COMMUNITY\\VC\\TOOLS\\MSVC\\14.39.33519\\INCLUDE\\RANDOM||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Random.h",
+              "DocumentMoniker": "C:\\Users\\Alejandro\\RayTracing\\Walnut\\Walnut\\src\\Walnut\\Random.h",
+              "RelativeDocumentMoniker": "Walnut\\src\\Walnut\\Random.h",
+              "ToolTip": "C:\\Users\\Alejandro\\RayTracing\\Walnut\\Walnut\\src\\Walnut\\Random.h",
+              "RelativeToolTip": "Walnut\\src\\Walnut\\Random.h",
+              "ViewState": "AQIAABsAAAAAAAAAAADwvy4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-07T02:57:55.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "random",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\random",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\random",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\random",
+              "RelativeToolTip": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\random",
+              "ViewState": "AQIAAH8HAAAAAAAAAAAAAHoHAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-07T02:47:03.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "imgui.cpp",
+              "DocumentMoniker": "C:\\Users\\Alejandro\\RayTracing\\Walnut\\vendor\\imgui\\imgui.cpp",
+              "RelativeDocumentMoniker": "vendor\\imgui\\imgui.cpp",
+              "ToolTip": "C:\\Users\\Alejandro\\RayTracing\\Walnut\\vendor\\imgui\\imgui.cpp",
+              "RelativeToolTip": "vendor\\imgui\\imgui.cpp",
+              "ViewState": "AQIAAA0cAAAAAAAAAAAAACIcAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-06T22:33:51.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Scene.h",
+              "DocumentMoniker": "C:\\Users\\Alejandro\\RayTracing\\Walnut\\RayTracing\\src\\Scene.h",
+              "RelativeDocumentMoniker": "RayTracing\\src\\Scene.h",
+              "ToolTip": "C:\\Users\\Alejandro\\RayTracing\\Walnut\\RayTracing\\src\\Scene.h",
+              "RelativeToolTip": "RayTracing\\src\\Scene.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-05T12:57:41.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "component_wise.hpp",
+              "DocumentMoniker": "C:\\VulkanSDK\\1.3.290.0\\Include\\glm\\gtx\\component_wise.hpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\VulkanSDK\\1.3.290.0\\Include\\glm\\gtx\\component_wise.hpp",
+              "ToolTip": "C:\\VulkanSDK\\1.3.290.0\\Include\\glm\\gtx\\component_wise.hpp",
+              "RelativeToolTip": "..\\..\\..\\..\\VulkanSDK\\1.3.290.0\\Include\\glm\\gtx\\component_wise.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-05T01:16:18.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Ray.h",
+              "DocumentMoniker": "C:\\Users\\Alejandro\\RayTracing\\Walnut\\RayTracing\\src\\Ray.h",
+              "RelativeDocumentMoniker": "RayTracing\\src\\Ray.h",
+              "ToolTip": "C:\\Users\\Alejandro\\RayTracing\\Walnut\\RayTracing\\src\\Ray.h",
+              "RelativeToolTip": "RayTracing\\src\\Ray.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-05T01:08:10.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Renderer.cpp",
+              "DocumentMoniker": "C:\\Users\\Alejandro\\RayTracing\\Walnut\\RayTracing\\src\\Renderer.cpp",
+              "RelativeDocumentMoniker": "RayTracing\\src\\Renderer.cpp",
+              "ToolTip": "C:\\Users\\Alejandro\\RayTracing\\Walnut\\RayTracing\\src\\Renderer.cpp",
+              "RelativeToolTip": "RayTracing\\src\\Renderer.cpp",
+              "ViewState": "AQIAAHQAAAAAAAAAAAAcwIEAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-03T21:36:46.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Random.cpp",
+              "DocumentMoniker": "C:\\Users\\Alejandro\\RayTracing\\Walnut\\Walnut\\src\\Walnut\\Random.cpp",
+              "RelativeDocumentMoniker": "Walnut\\src\\Walnut\\Random.cpp",
+              "ToolTip": "C:\\Users\\Alejandro\\RayTracing\\Walnut\\Walnut\\src\\Walnut\\Random.cpp",
+              "RelativeToolTip": "Walnut\\src\\Walnut\\Random.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-07T02:58:33.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Camera.cpp",
+              "DocumentMoniker": "C:\\Users\\Alejandro\\RayTracing\\Walnut\\RayTracing\\src\\Camera.cpp",
+              "RelativeDocumentMoniker": "RayTracing\\src\\Camera.cpp",
+              "ToolTip": "C:\\Users\\Alejandro\\RayTracing\\Walnut\\RayTracing\\src\\Camera.cpp",
+              "RelativeToolTip": "RayTracing\\src\\Camera.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-04T22:33:00.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Renderer.h",
+              "DocumentMoniker": "C:\\Users\\Alejandro\\RayTracing\\Walnut\\RayTracing\\src\\Renderer.h",
+              "RelativeDocumentMoniker": "RayTracing\\src\\Renderer.h",
+              "ToolTip": "C:\\Users\\Alejandro\\RayTracing\\Walnut\\RayTracing\\src\\Renderer.h",
+              "RelativeToolTip": "RayTracing\\src\\Renderer.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-03T21:36:32.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WalnutApp.cpp",
+              "DocumentMoniker": "C:\\Users\\Alejandro\\RayTracing\\Walnut\\RayTracing\\src\\WalnutApp.cpp",
+              "RelativeDocumentMoniker": "RayTracing\\src\\WalnutApp.cpp",
+              "ToolTip": "C:\\Users\\Alejandro\\RayTracing\\Walnut\\RayTracing\\src\\WalnutApp.cpp",
+              "RelativeToolTip": "RayTracing\\src\\WalnutApp.cpp",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAywGwAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-03T17:07:15.209Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
